@@ -13,3 +13,7 @@ https://certification.ubuntu.com/hardware/201903-26879
 
 ubuntu dell laptop install
 https://medium.com/@tylergwlum/my-journey-installing-ubuntu-18-04-on-the-dell-xps-15-7590-2019-756f738a6447
+
+
+- ubuntu 한글 깨짐 현상
+http://forum.falinux.com/zbxe/index.php?document_srl=831895&mid=lecture_tip
