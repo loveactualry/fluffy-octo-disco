@@ -17,3 +17,6 @@ https://medium.com/@tylergwlum/my-journey-installing-ubuntu-18-04-on-the-dell-xp
 
 - ubuntu 한글 깨짐 현상
 http://forum.falinux.com/zbxe/index.php?document_srl=831895&mid=lecture_tip
+
+- jupyter notebook - Rise pdf file export
+https://rise.readthedocs.io/en/maint-5.5/exportpdf.html?highlight=pdf
