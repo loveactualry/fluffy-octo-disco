@@ -27,3 +27,10 @@ FROM ANIMAL_INS;
 
 - MYSQL
 SELECT DATE_FORMAT(DATETIME, '%Y-%m-%d %h:%i:%s') FROM ANIMAL_OUTS;
+
+
+
+- ORACLE
+REGULAR EXPRESSION
+https://kutar37.tistory.com/entry/oracle-REGEXPLIKE
+
