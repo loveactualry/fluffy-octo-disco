@@ -26,3 +26,6 @@ https://ndres.me/post/best-jupyter-notebook-extensions/
 
 - jupyter notebook - autopep8
 https://junpyopark.github.io/Jupyter_Extension/#Autopep8:-%EC%9E%90%EB%8F%99-%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC%EA%B8%B0%EB%8A%A5(-PEP-8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A0%81%EC%9A%A9-)
+
+
+hi
